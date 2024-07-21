@@ -1,0 +1,9 @@
+{"T": ["ITM2A", "GNLY", "CCL5", "CD160", "CCR5", "TRAC", "KLRG1", "SPOCK2", "TIGIT", "IL7R",  "CYTIP", "CD8B", "IL32", "AQP3", "GZMK", "NKG7", "CD7", "CCR7", "SELL", "SRGN", "TRAT1", "GZMB", "CD3G", "IL2RG",  "PRF1", "CD8A", "KLRB1", "CXCR4", "CST7", "ACAP1", "RGS1",  "ETS1",  "CD3D", "CD247", "CD52", "LTB", "LCK", "TRBC2", "CD69", "CD3E", "CCL4", "FOXP3", "GZMA",  "GZMH", "KLRD1", "PTPRC", "CD2", "TRBC1","TRBC2", "LDHB"], 
+"NK": ["GNLY",  "KLRF1"], 
+"B": ["IGKC", "CD19", "TNFRSF17", "IGHM", "BLK", "AICDA", "FCRL2", "BANK1", "CD79B", "FCRL1", "CD27", "FCRLA", "POU2AF1", "MZB1", "DERL3", "IGHG1", "HLA-DQA1", "CD38", "JCHAIN", "CD22", "GNG7", "MS4A1", "TNFRSF13C", "CD79A", "PNOC", "SPIB", "BACH2", "HLA-DOB", "TCL1A", "VPREB3", "CR2", "FCRL5", "CD74"], 
+"Macrophages": ["CD68", "AIF1", "CD14", "IL1B", "MSR1", "CD86", "FCGR1A", "FCGR3A", "C1QA", "CSF1R", "IGSF6", "MS4A4A", "TREM2",  "CD163"], 
+"DC": ["HLA-DQB1", "CD83", "LYZ", "IL3RA", "CLEC4C", "FCER1A", "C1orf162", "SIRPA", "CD207", "HLA-DQA1", "IRF8", "CLEC10A", "CD1C"], 
+"Monocyte": ["FCN1", "LYZ", "CD14", "S100A8", "CFP"], 
+"Endothelial": ["CDH5", "PLVAP", "CD34", "VWF", "PECAM1", "FLT1"], 
+"Fibroblasts": ["LUM",  "THY1", "COL3A1", "COL1A1", "DCN", "PDGFRB"], 
+"Malignant":[ "MUC1", "FXYD3", "MKI67", "MDK", "SOX4", "S100P",  "EPCAM", "ATP1B1"] }
